@@ -1,3 +1,3 @@
 # -Smart-Watch
 Website for Smart Watch ⌚
-file:///C:/Users/sh/Desktop/foodwaGon/Frame%2015%20(1).png
+![Frame 15 (1)](https://github.com/user-attachments/assets/b0378ab0-afa7-4ca3-9ee8-a9163e738ed7)
